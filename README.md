@@ -2,7 +2,7 @@
 
 __Objetivo:__   
 
-O presente repositório visa abordar de forma auto-explicativa e orientada os principais metodos de __Data Wralling com Pandas__ utilizando a linguagem python, sendo assim um guia para a programação na linguagem servindo também como repositório para esclarecimento de dúvidas durante o desenvolvimento.
+O presente repositório visa abordar de forma auto-explicativa e orientada os principais metodos de __Data Visualization com as bibliotecas SeaBorn e Matplotlib__ utilizando a linguagem python, sendo assim um guia para a programação na linguagem servindo também como repositório para esclarecimento de dúvidas durante o desenvolvimento.
 
 __Autor:__  
    - Bruno Priantti.
