@@ -13,3 +13,19 @@ __Contato:__
 __Encontre-me:__  
    -  www.linkedin.com/in/bpriantti  
    -  https://www.instagram.com/brunopriantti/
+
+___
+
+#Biblios. Utilizadas:
+
+Pandas:
+https://pandas.pydata.org/
+
+Matplotlib:
+https://matplotlib.org/
+
+Seaborn:
+https://seaborn.pydata.org/
+
+Plotly:
+https://plotly.com/
